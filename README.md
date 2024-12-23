@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/3-columns-preview-card-component--mLXsTvObi)
-- Live Site URL: [Live site URL ](https://3-columns-card-component-tedkata.vercel.app/)
+- Live Site URL: [Live site URL ](https://3-columns-card-component-denislav.vercel.app)
 
 ## My process
 
@@ -48,14 +48,10 @@ Users should be able to:
 
 This challenge has helped me learn how to work with mobile devices.
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-
 
 ### Useful resources
 - [CodeCademy Cheatsheet](https://www.codecademy.com/resources/cheatsheets/language/html-css) - This cheatsheat can help you remember things you might have forgot. We are humans, we forget stuff.
 
 
 ## Author
-- Frontend Mentor - [@tedkataa](https://www.frontendmentor.io/profile/tedkataa)
-- Twitter - [@tedkataa_](https://x.com/tedkataa_)
+- Frontend Mentor - [@denislavangelov09](https://www.frontendmentor.io/profile/denislavangelov09)
